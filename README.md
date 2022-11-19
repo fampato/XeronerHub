@@ -1,2 +1,0 @@
-# XeronerHub
-bloxfruit
